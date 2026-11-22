@@ -1,0 +1,105 @@
+{
+  "name": "MaBocraft",
+  "version": "2026.11.22-3",
+  "minecraft": "1.21.1",
+  "neoforge": "21.1.266",
+  "server": "",
+  "dateien": [
+    {
+      "datei": "mabocraft-admin-1.0.jar",
+      "url": "mods/mabocraft-admin-1.0.jar",
+      "sha1": "5be17c7e4ffc04be51d96c3b183ccb93ead17c52",
+      "groesse": 151842,
+      "ordner": "mods"
+    },
+    {
+      "datei": "mabocraft-aufzug-1.0.jar",
+      "url": "mods/mabocraft-aufzug-1.0.jar",
+      "sha1": "834234346eb63ea8ca74c87e318815e5f474608a",
+      "groesse": 4455331,
+      "ordner": "mods"
+    },
+    {
+      "datei": "mabocraft-autos-1.0.jar",
+      "url": "mods/mabocraft-autos-1.0.jar",
+      "sha1": "43277e9b1bb504d26413af09b20b8e71c15e03a3",
+      "groesse": 10616121,
+      "ordner": "mods"
+    },
+    {
+      "datei": "mabocraft-brieftasche-1.0.jar",
+      "url": "mods/mabocraft-brieftasche-1.0.jar",
+      "sha1": "35829574a0e83e45ad6a6b20ba9ec7db35691c8c",
+      "groesse": 8412826,
+      "ordner": "mods"
+    },
+    {
+      "datei": "mabocraft-handy-1.0.jar",
+      "url": "mods/mabocraft-handy-1.0.jar",
+      "sha1": "c53db9015f25d14ed88b9ef13d8517989e24f371",
+      "groesse": 6744712,
+      "ordner": "mods"
+    },
+    {
+      "datei": "mabocraft-hud-1.0.jar",
+      "url": "mods/mabocraft-hud-1.0.jar",
+      "sha1": "774dda1fa8fb8b038e97f64d7d11da464c87a4b1",
+      "groesse": 71813,
+      "ordner": "mods"
+    },
+    {
+      "datei": "mabocraft-immobilien-1.0.jar",
+      "url": "mods/mabocraft-immobilien-1.0.jar",
+      "sha1": "1f1d238eee6b9e3ebe27a3592c6b61ca19eb4d43",
+      "groesse": 123335,
+      "ordner": "mods"
+    },
+    {
+      "datei": "mabocraft-jobs-1.0.jar",
+      "url": "mods/mabocraft-jobs-1.0.jar",
+      "sha1": "2cbeb39b4aaa2ab0aa7d53d95d3b0d8c292d44c9",
+      "groesse": 300718,
+      "ordner": "mods"
+    },
+    {
+      "datei": "mabocraft-kern-1.0.jar",
+      "url": "mods/mabocraft-kern-1.0.jar",
+      "sha1": "933937f13f191cb80d97e41259c52b1be42fc858",
+      "groesse": 1002028,
+      "ordner": "mods"
+    },
+    {
+      "datei": "mabocraft-licht-1.0.jar",
+      "url": "mods/mabocraft-licht-1.0.jar",
+      "sha1": "cbda5838eb81fefaef1456974e4391e2dbaa89be",
+      "groesse": 35133,
+      "ordner": "mods"
+    },
+    {
+      "datei": "mabocraft-stadtkarte-1.0.jar",
+      "url": "mods/mabocraft-stadtkarte-1.0.jar",
+      "sha1": "33c2eeac08ecaaa181977213504ce26aba901483",
+      "groesse": 197411,
+      "ordner": "mods"
+    },
+    {
+      "datei": "mcef-neoforge-2.1.6-1.21.1.jar",
+      "url": "mods/mcef-neoforge-2.1.6-1.21.1.jar",
+      "sha1": "efc74c3bf0784f2c75004440bb1ea4ed15e2385c",
+      "groesse": 215373,
+      "ordner": "mods"
+    }
+  ],
+  "neuigkeiten": [
+    {
+      "titel": "Aufzug-Update",
+      "text": "Aufzüge mit vielen Etagen: Das Tableau kann jetzt scrollen und hat mehr Spalten. Etagen über 16 funktionieren wieder.",
+      "datum": "22.11.2026"
+    },
+    {
+      "titel": "Willkommen im MaBocraft Launcher",
+      "text": "Ab jetzt bekommst du alle Updates automatisch: Wenn es etwas Neues gibt, steht unten UPDATE. Einmal klicken, fertig.",
+      "datum": "22.11.2026"
+    }
+  ]
+}
