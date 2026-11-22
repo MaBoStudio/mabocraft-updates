@@ -1,6 +1,6 @@
 {
   "name": "MaBocraft",
-  "version": "2026.11.22-5",
+  "version": "2026.11.22-7",
   "minecraft": "1.21.1",
   "neoforge": "21.1.266",
   "server": "eu8823462.g-portal.game",
@@ -42,8 +42,8 @@
     {
       "datei": "mabocraft-handy-1.0.jar",
       "url": "mods/mabocraft-handy-1.0.jar",
-      "sha1": "c53db9015f25d14ed88b9ef13d8517989e24f371",
-      "groesse": 6744712,
+      "sha1": "f4b6bf1fbf548d9b08de614dc7f809d301745fb1",
+      "groesse": 6751865,
       "ordner": "mods"
     },
     {
@@ -82,6 +82,13 @@
       "ordner": "mods"
     },
     {
+      "datei": "mabocraft-sprache-1.0.jar",
+      "url": "mods/mabocraft-sprache-1.0.jar",
+      "sha1": "4b9cfacd60fc2c66696ca4f2e7ea3e0c9cb375ab",
+      "groesse": 38002,
+      "ordner": "mods"
+    },
+    {
       "datei": "mabocraft-stadtkarte-1.0.jar",
       "url": "mods/mabocraft-stadtkarte-1.0.jar",
       "sha1": "33c2eeac08ecaaa181977213504ce26aba901483",
@@ -94,9 +101,26 @@
       "sha1": "efc74c3bf0784f2c75004440bb1ea4ed15e2385c",
       "groesse": 215373,
       "ordner": "mods"
+    },
+    {
+      "datei": "voicechat-neoforge-1.21.1-2.6.27.jar",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/iR08ksVF/voicechat-neoforge-1.21.1-2.6.27.jar",
+      "sha1": "8aded3a22614a8e1641973623e7817dccea513fa",
+      "groesse": 4936802,
+      "ordner": "mods"
     }
   ],
   "neuigkeiten": [
+    {
+      "titel": "Handy: Telefonieren & Sprachnachrichten",
+      "text": "Anrufe übers Handy laufen jetzt mit echter Stimme über den Voice Chat – egal wie weit ihr voneinander weg seid. Mit 🔊 Lautsprecher hören Leute neben dir mit, mit 🎤 Stumm schaltest du dein Mikro im Anruf aus. Im Chat schickst du mit dem Mikrofon-Knopf Sprachnachrichten.",
+      "datum": "22.11.2026"
+    },
+    {
+      "titel": "Voice Chat ist da!",
+      "text": "Jetzt kannst du im Spiel mit anderen reden – je näher, desto lauter. Taste V öffnet das Voice-Chat-Menü (Mikrofon, Lautstärke, Sprechen per Taste oder automatisch), G für private Gruppen. Einfach einmal UPDATE drücken.",
+      "datum": "22.11.2026"
+    },
     {
       "titel": "Der Server ist online!",
       "text": "Im Launcher siehst du jetzt live, ob der Server läuft und wie viele Spieler online sind. Beim Spielen steht MaBocraft automatisch in deiner Serverliste. Adresse: eu8823462.g-portal.game",
