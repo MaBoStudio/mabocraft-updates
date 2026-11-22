@@ -1,14 +1,14 @@
 {
   "name": "MaBocraft",
-  "version": "2026.11.22-7",
+  "version": "2026.11.22-8",
   "minecraft": "1.21.1",
   "neoforge": "21.1.266",
   "server": "eu8823462.g-portal.game",
   "launcher": {
-    "version": "1.4.0",
-    "url": "launcher/MaBocraftLauncher-1.4.0.jar",
-    "sha1": "586eedf57a10bd46565f86a8f66d2dec8afac303",
-    "groesse": 1100936
+    "version": "1.4.1",
+    "url": "launcher/MaBocraftLauncher-1.4.1.jar",
+    "sha1": "fca26701a1ba2fd85c96af8dd4b28ba740703385",
+    "groesse": 1101978
   },
   "dateien": [
     {
@@ -111,6 +111,11 @@
     }
   ],
   "neuigkeiten": [
+    {
+      "titel": "Launcher-Update 1.4.1",
+      "text": "Behebt den Fehler \"Spielstart fehlgeschlagen – Unable to prepare assets for download\" im Minecraft Launcher. Einfach den MaBocraft Launcher neu starten, er aktualisiert sich selbst.",
+      "datum": "22.11.2026"
+    },
     {
       "titel": "Handy: Telefonieren & Sprachnachrichten",
       "text": "Anrufe übers Handy laufen jetzt mit echter Stimme über den Voice Chat – egal wie weit ihr voneinander weg seid. Mit 🔊 Lautsprecher hören Leute neben dir mit, mit 🎤 Stumm schaltest du dein Mikro im Anruf aus. Im Chat schickst du mit dem Mikrofon-Knopf Sprachnachrichten.",
