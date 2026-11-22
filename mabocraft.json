@@ -1,9 +1,15 @@
 {
   "name": "MaBocraft",
-  "version": "2026.11.22-3",
+  "version": "2026.11.22-5",
   "minecraft": "1.21.1",
   "neoforge": "21.1.266",
-  "server": "",
+  "server": "eu8823462.g-portal.game",
+  "launcher": {
+    "version": "1.4.0",
+    "url": "launcher/MaBocraftLauncher-1.4.0.jar",
+    "sha1": "586eedf57a10bd46565f86a8f66d2dec8afac303",
+    "groesse": 1100936
+  },
   "dateien": [
     {
       "datei": "mabocraft-admin-1.0.jar",
@@ -91,6 +97,11 @@
     }
   ],
   "neuigkeiten": [
+    {
+      "titel": "Der Server ist online!",
+      "text": "Im Launcher siehst du jetzt live, ob der Server läuft und wie viele Spieler online sind. Beim Spielen steht MaBocraft automatisch in deiner Serverliste. Adresse: eu8823462.g-portal.game",
+      "datum": "22.11.2026"
+    },
     {
       "titel": "Aufzug-Update",
       "text": "Aufzüge mit vielen Etagen: Das Tableau kann jetzt scrollen und hat mehr Spalten. Etagen über 16 funktionieren wieder.",
